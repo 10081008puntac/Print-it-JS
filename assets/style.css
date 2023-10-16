@@ -4,8 +4,37 @@
 	--secondary-color: #CD006B;
 	--third-color: #EEE325;
 }
- 
-Arrows {
+
+
+@keyframes {
+animation-iteration-count: infinite;
+}
+
+.slide1 & click-left {
+      slide4;	
+	last-\002794;
+}
+	
+.slide4 & click -right {
+slide1;	
+last-\002794;
+}
+
+
+.arrow-right & click {
+next-bullet-point;
+next-image;
+next-text;
+}
+
+.arrow-left & click {
+previous-bullet-point;
+previous-image;
+previous-text;
+}
+
+
+.Arrows {
 ( *) : \002794
 }
 

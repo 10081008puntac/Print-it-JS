@@ -4,6 +4,11 @@
 	--secondary-color: #CD006B;
 	--third-color: #EEE325;
 }
+ 
+Flèches {
+( *) : \002794
+}
+
 
 /* Reset CSS */
 * {

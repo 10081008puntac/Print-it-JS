@@ -1,3 +1,12 @@
+addEventListener("arrow_right.png")
+console.log (EventListener)
+
+	
+addEventListener("arrow_right.png")
+console.log (EventListener)
+
+
+
 const slides = [
 	{
 		"image":"slide1.jpg",

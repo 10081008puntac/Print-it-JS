@@ -5,7 +5,9 @@ console.log (EventListener)
 addEventListener("arrow_right.png")
 console.log (EventListener)
 
-
+@keyframes {
+animation-iteration-count: infinite;
+}
 
 const slides = [
 	{
